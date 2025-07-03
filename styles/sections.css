@@ -71,3 +71,28 @@ section header {
     }
   }
 }
+
+article div {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+#ai article div img {
+  width: 176px;
+  height: 176px;
+}
+
+#ai article {
+  width: 696px;
+}
+
+#last-section {
+  align-items: normal;
+  height: 876px;
+}
+
+#more article img {
+  width: 72px;
+  height: 72px;
+}
